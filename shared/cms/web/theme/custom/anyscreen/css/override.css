@@ -1,0 +1,64 @@
+.well {
+
+
+}
+
+/* dashboard.css */
+body {
+
+}
+
+/*Top header*/
+.row.header {
+
+}
+
+/* Sidebar background color */
+#sidebar-wrapper {
+
+}
+
+/* Sidebar header and footer color */
+ul.sidebar .sidebar-main a, .sidebar-footer, ul.sidebar .sidebar-list a:hover, #page-wrapper:not(.active) ul.sidebar .sidebar-title.separator {
+
+}
+
+/* Sidebar title text colour */
+ul.sidebar .sidebar-title a {
+
+}
+
+/* Sidebar link color*/
+ul.sidebar .sidebar-list a {
+
+}
+
+/* Widget */
+.widget .widget-title {
+
+
+}
+
+/* Link color*/
+a {
+
+}
+
+/* default navbar */
+.navbar-default {
+
+
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover , .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+
+
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+
+}
+
+.navbar-default .navbar-nav>.show>a, .navbar-default .navbar-nav>.show>a:focus, .navbar-default .navbar-nav>.show>a:hover {
+
+}
